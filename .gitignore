@@ -1,0 +1,14 @@
+# Python generated files
+__pycache__/
+*.pyc
+
+# Runtime data
+phase3/data/
+phase3/connection_history.txt
+phase3/connection_state.txt
+
+# Backup files
+*.backup
+
+# Local database
+*.db

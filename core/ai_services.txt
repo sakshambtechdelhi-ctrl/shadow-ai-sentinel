@@ -1,0 +1,10 @@
+chatgpt.com
+openai.com
+api.openai.com
+claude.ai
+anthropic.com
+gemini.google.com
+generativelanguage.googleapis.com
+copilot.microsoft.com
+perplexity.ai
+huggingface.co
