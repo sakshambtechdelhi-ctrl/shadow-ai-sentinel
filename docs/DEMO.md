@@ -30,7 +30,7 @@ Frequent:     NO
 
 Risk Score:   0
 Risk Level:  LOW
- 
+``` 
 
 ## Demonstration 2 — Unknown Service Detection
 
@@ -48,6 +48,14 @@ Frequent:     NO
 Risk Score:   20
 Risk Level:   LOW
 
+```
+
+
+
+
+```text id="dd2l4w"
+The system generated:
+
 ```text
 SHADOW AI SECURITY ALERT
 
@@ -62,7 +70,15 @@ This demonstrates explainable risk scoring when reverse DNS information is unava
 
 ## Demonstration 3 — Connection State Tracking
 
-The same destination was observed as:
+Theuent:     NO
+
+Risk Score:   20
+Risk Level:   LOW
+
+```text
+SHADOW AI SECURITY ALERT
+
+ same destination was observed as:
 
 ```text
 Connection: NEW
